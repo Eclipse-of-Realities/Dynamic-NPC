@@ -1,4 +1,4 @@
-# NPC: Because Your Game Needed More Eye Rolls
+# NPC: Because Game Needed More Eye Rolls
 
 *Oh look, another AI model. How... original.*
 
